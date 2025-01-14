@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dev Tools on Northendlab | Creative Blog Template</title>
+    <link>//localhost:53424/fr/categories/dev-tools/</link>
+    <description>Recent content in Dev Tools on Northendlab | Creative Blog Template</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Fri, 07 Aug 2020 05:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:53424/fr/categories/dev-tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git</title>
+      <link>//localhost:53424/fr/tools/tool-12/</link>
+      <pubDate>Tue, 07 Jul 2020 05:00:00 +0000</pubDate>
+      <guid>//localhost:53424/fr/tools/tool-12/</guid>
+      <description>&lt;h2 id=&#34;what-is-figma&#34;&gt;What Is Figma??&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta neces sita tisbus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibud sdam sed, neque recusandae, est odit. A facere olorem quidem similique, delectus rerum laborum tempore soluta&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sublime Text</title>
+      <link>//localhost:53424/fr/tools/tool-22/</link>
+      <pubDate>Fri, 07 Aug 2020 05:00:00 +0000</pubDate>
+      <guid>//localhost:53424/fr/tools/tool-22/</guid>
+      <description>&lt;h2 id=&#34;what-is-vs-code&#34;&gt;What Is VS Code??&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta neces sita tisbus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibud sdam sed, neque recusandae, est odit. A facere olorem quidem similique, delectus rerum laborum tempore soluta&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>VS Code</title>
+      <link>//localhost:53424/fr/tools/tool-2/</link>
+      <pubDate>Sat, 07 Mar 2020 05:00:00 +0000</pubDate>
+      <guid>//localhost:53424/fr/tools/tool-2/</guid>
+      <description>&lt;h2 id=&#34;what-is-vs-code&#34;&gt;What Is VS Code??&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta neces sita tisbus reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate at provident soluta consequatur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibud sdam sed, neque recusandae, est odit. A facere olorem quidem similique, delectus rerum laborum tempore soluta&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
